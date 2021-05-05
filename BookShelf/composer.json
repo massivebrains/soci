@@ -1,0 +1,17 @@
+{
+    "name": "massivebrians/book-shelf",
+    "description": "Soci BookShelf",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Massive Brains",
+            "email": "vadeshayo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BookShelf\\": ""
+        }
+    }
+}
